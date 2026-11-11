@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Placeholder project screenshot">
+<defs>
+  <linearGradient id="bg-fashion-ecommerce-store-s2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1024"/><stop offset="1" stop-color="#05070f"/></linearGradient>
+  <linearGradient id="ac-fashion-ecommerce-store-s2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ec4899"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+  <radialGradient id="glow-fashion-ecommerce-store-s2" cx="0.75" cy="0.2" r="0.7"><stop offset="0" stop-color="#8b5cf6" stop-opacity="0.45"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
+  <radialGradient id="glow2-fashion-ecommerce-store-s2" cx="0.1" cy="0.95" r="0.6"><stop offset="0" stop-color="#ec4899" stop-opacity="0.35"/><stop offset="1" stop-color="#ec4899" stop-opacity="0"/></radialGradient>
+  <pattern id="grid-fashion-ecommerce-store-s2" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#94a3d6" stroke-opacity="0.07"/></pattern>
+</defs>
+<rect width="1200" height="900" fill="url(#bg-fashion-ecommerce-store-s2)"/>
+<rect width="1200" height="900" fill="url(#grid-fashion-ecommerce-store-s2)"/>
+<rect width="1200" height="900" fill="url(#glow-fashion-ecommerce-store-s2)"/>
+<rect width="1200" height="900" fill="url(#glow2-fashion-ecommerce-store-s2)"/>
+<g>
+  <rect x="70" y="70" width="1060" height="730" rx="22" fill="#0d1328" stroke="#ffffff" stroke-opacity="0.1"/>
+  <rect x="70" y="70" width="1060" height="44" rx="22" fill="#ffffff" fill-opacity="0.04"/>
+  <circle cx="96" cy="92" r="6" fill="#ff5f57" fill-opacity="0.8"/>
+  <circle cx="116" cy="92" r="6" fill="#febc2e" fill-opacity="0.8"/>
+  <circle cx="136" cy="92" r="6" fill="#28c840" fill-opacity="0.8"/>
+  <rect x="480" y="83" width="240" height="18" rx="9" fill="#ffffff" fill-opacity="0.06"/>
+  
+    <rect x="94" y="138" width="160" height="638" rx="14" fill="#ffffff" fill-opacity="0.04"/>
+    <rect x="114" y="166" width="110" height="12" rx="6" fill="#ffffff" fill-opacity="0.3"/><rect x="114" y="210" width="110" height="12" rx="6" fill="#ffffff" fill-opacity="0.1"/><rect x="114" y="254" width="110" height="12" rx="6" fill="#ffffff" fill-opacity="0.1"/><rect x="114" y="298" width="110" height="12" rx="6" fill="#ffffff" fill-opacity="0.1"/><rect x="114" y="342" width="110" height="12" rx="6" fill="#ffffff" fill-opacity="0.1"/>
+    <rect x="278" y="138" width="828" height="70" rx="14" fill="#ffffff" fill-opacity="0.04"/>
+    <rect x="302" y="160" width="220" height="18" rx="6" fill="#ffffff" fill-opacity="0.25"/>
+    <rect x="278" y="228" width="260" height="110" rx="14" fill="#ffffff" fill-opacity="0.05"/><rect x="300" y="252" width="80" height="12" rx="6" fill="#ffffff" fill-opacity="0.18"/><rect x="300" y="280" width="120" height="28" rx="8" fill="url(#ac-fashion-ecommerce-store-s2)" fill-opacity="0.5"/><rect x="554" y="228" width="260" height="110" rx="14" fill="#ffffff" fill-opacity="0.05"/><rect x="576" y="252" width="80" height="12" rx="6" fill="#ffffff" fill-opacity="0.18"/><rect x="576" y="280" width="120" height="28" rx="8" fill="url(#ac-fashion-ecommerce-store-s2)" fill-opacity="0.7"/><rect x="830" y="228" width="260" height="110" rx="14" fill="#ffffff" fill-opacity="0.05"/><rect x="852" y="252" width="80" height="12" rx="6" fill="#ffffff" fill-opacity="0.18"/><rect x="852" y="280" width="120" height="28" rx="8" fill="url(#ac-fashion-ecommerce-store-s2)" fill-opacity="0.9"/>
+    <rect x="278" y="358" width="828" height="418" rx="14" fill="#ffffff" fill-opacity="0.04"/>
+    <path d="M310 740 C 430 640, 530 710, 630 630 S 830 650, 1070 560" fill="none" stroke="url(#ac-fashion-ecommerce-store-s2)" stroke-width="5" stroke-linecap="round"/>
+</g>
+<g>
+  <rect x="40" y="816" width="312" height="44" rx="22" fill="#05070f" fill-opacity="0.65" stroke="#ffffff" stroke-opacity="0.15"/>
+  <text x="64" y="844" font-family="ui-sans-serif, system-ui, sans-serif" font-size="17" fill="#cbd5f5" letter-spacing="0.5">Screenshot placeholder 2</text>
+</g>
+</svg>
